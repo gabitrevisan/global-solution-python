@@ -42,3 +42,4 @@ PRINCIPAIS FUNCIONALIDADES IMPLEMENTADAS:
 O código utiliza estruturas de repetição (while), estruturas condicionais (if, elif, else), listas, dicionários e manipulação de arquivos para implementar as funcionalidades descritas.
 
 LINK PARA ACESSO NO GITHUB:
+https://github.com/gabitrevisan/global-solution-python
